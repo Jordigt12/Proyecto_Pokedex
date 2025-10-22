@@ -1,0 +1,20 @@
+{
+    "nombre": "hitmonchan",
+    "peso": 50.2,
+    "altura": 1.4,
+    "tipos": [
+        "fighting"
+    ],
+    "habilidades": [
+        "keen-eye",
+        "iron-fist",
+        "inner-focus"
+    ],
+    "movimientos": [
+        "comet-punch",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
+}

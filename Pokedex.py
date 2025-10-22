@@ -40,7 +40,7 @@ Movimientos: {", ".join(movimientos)}"""
         if sprite_url:
             img_1 = requests.get(sprite_url).content
             img = Image.open(BytesIO(img_1))
-            img = img.resize((96, 96))
+            img = img.resize((350, 350))
             img_2 = ImageTk.PhotoImage(img)
             imagen_label.config(image=img_2)
             imagen_label.image = img_2
@@ -69,10 +69,10 @@ Movimientos: {", ".join(movimientos)}"""
 # Crear ventana
 ventana = tk.Tk()
 ventana.title("Pokedex")
-ventana.geometry("400x400")
+ventana.state("zoomed")
 
 #Crea los elementos de la interfaz: campo de texto, etiquetas y botón.
-entrada = tk.Entry(ventana, width=30)
+entrada = tk.Entry(ventana, width=30,)
 entrada.pack(pady=10)
 
 resulta = tk.Label(ventana, text="", justify="left")
@@ -81,7 +81,7 @@ resulta.pack(pady=10)
 imagen_label = tk.Label(ventana)
 imagen_label.pack(pady=10)
 
-boton = tk.Button(ventana, text="Buscar", command=buscar)
+boton = tk.Button(ventana, text="Buscar", command=buscar, width=20, height=3)
 boton.pack(pady=10)
 
 #Inicia la aplicación y mantiene la ventana abierta.

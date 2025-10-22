@@ -1,0 +1,20 @@
+{
+    "nombre": "snorlax",
+    "peso": 460.0,
+    "altura": 2.1,
+    "tipos": [
+        "normal"
+    ],
+    "habilidades": [
+        "immunity",
+        "thick-fat",
+        "gluttony"
+    ],
+    "movimientos": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
+}

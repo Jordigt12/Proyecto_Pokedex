@@ -1,0 +1,19 @@
+{
+    "nombre": "zekrom",
+    "peso": 345.0,
+    "altura": 2.9,
+    "tipos": [
+        "dragon",
+        "electric"
+    ],
+    "habilidades": [
+        "teravolt"
+    ],
+    "movimientos": [
+        "thunder-punch",
+        "cut",
+        "fly",
+        "body-slam"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png"
+}

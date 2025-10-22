@@ -1,0 +1,19 @@
+{
+    "nombre": "vaporeon",
+    "peso": 29.0,
+    "altura": 1.0,
+    "tipos": [
+        "water"
+    ],
+    "habilidades": [
+        "water-absorb",
+        "hydration"
+    ],
+    "movimientos": [
+        "pay-day",
+        "double-kick",
+        "sand-attack",
+        "headbutt"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
+}

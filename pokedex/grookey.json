@@ -1,0 +1,19 @@
+{
+    "nombre": "grookey",
+    "peso": 5.0,
+    "altura": 0.3,
+    "tipos": [
+        "grass"
+    ],
+    "habilidades": [
+        "overgrow",
+        "grassy-surge"
+    ],
+    "movimientos": [
+        "mega-punch",
+        "scratch",
+        "swords-dance",
+        "slam"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png"
+}

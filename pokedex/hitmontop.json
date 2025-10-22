@@ -1,0 +1,20 @@
+{
+    "nombre": "hitmontop",
+    "peso": 48.0,
+    "altura": 1.4,
+    "tipos": [
+        "fighting"
+    ],
+    "habilidades": [
+        "intimidate",
+        "technician",
+        "steadfast"
+    ],
+    "movimientos": [
+        "mega-punch",
+        "mega-kick",
+        "rolling-kick",
+        "headbutt"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png"
+}

@@ -1,0 +1,20 @@
+{
+    "nombre": "hitmonlee",
+    "peso": 49.8,
+    "altura": 1.5,
+    "tipos": [
+        "fighting"
+    ],
+    "habilidades": [
+        "limber",
+        "reckless",
+        "unburden"
+    ],
+    "movimientos": [
+        "mega-punch",
+        "swords-dance",
+        "double-kick",
+        "mega-kick"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png"
+}

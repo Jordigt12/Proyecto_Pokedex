@@ -1,0 +1,19 @@
+{
+    "nombre": "chespin",
+    "peso": 9.0,
+    "altura": 0.4,
+    "tipos": [
+        "grass"
+    ],
+    "habilidades": [
+        "overgrow",
+        "bulletproof"
+    ],
+    "movimientos": [
+        "thunder-punch",
+        "swords-dance",
+        "cut",
+        "vine-whip"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png"
+}

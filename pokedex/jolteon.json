@@ -1,0 +1,19 @@
+{
+    "nombre": "jolteon",
+    "peso": 24.5,
+    "altura": 0.8,
+    "tipos": [
+        "electric"
+    ],
+    "habilidades": [
+        "volt-absorb",
+        "quick-feet"
+    ],
+    "movimientos": [
+        "pay-day",
+        "double-kick",
+        "sand-attack",
+        "headbutt"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
+}

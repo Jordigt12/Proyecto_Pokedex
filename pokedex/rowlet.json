@@ -1,0 +1,20 @@
+{
+    "nombre": "rowlet",
+    "peso": 1.5,
+    "altura": 0.3,
+    "tipos": [
+        "grass",
+        "flying"
+    ],
+    "habilidades": [
+        "overgrow",
+        "long-reach"
+    ],
+    "movimientos": [
+        "swords-dance",
+        "gust",
+        "fury-attack",
+        "tackle"
+    ],
+    "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png"
+}
